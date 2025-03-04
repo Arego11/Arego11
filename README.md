@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Arego11](https://github.com/Arego11)
 
-- 💬 Ask me about **react, mongoDB,**
+- 💬 Ask me about **react, mongoDB, node, embedded systems, data maipulation**
 
 - 📫 How to reach me **aregbusiness11@gmail.com**
 
