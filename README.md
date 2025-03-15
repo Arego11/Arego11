@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **aregbusiness11@gmail.com**
 
-- ⚡ Fun fact **I like to draw**
+- ⚡ Fun fact **I used to be a tattoo artist**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
