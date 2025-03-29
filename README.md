@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Areg Hovumyan</h1>
-<h3 align="center">A software engineer located in the Bay Area</h3>
+<h1 align="center">Hi, I'm Areg Hovumyan</h1>
+<h3 align="center">A software engineer located in Los Angeles</h3>
 
 - 🔭 I’m currently working on **A Full-stack chatbot powered by Ollama**
 
