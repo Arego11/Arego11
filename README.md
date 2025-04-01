@@ -3,10 +3,6 @@
 
 - 🔭 I’m currently working on **A Full-stack Ai interview practice web-app**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Arego11](https://github.com/Arego11)
-
-- 💬 Ask me about **react, mongoDB, node, embedded systems, data manipulation**
-
 - 📫 How to reach me **aregbusiness11@gmail.com**
 
 - ⚡ Fun fact **I used to be a tattoo artist**
