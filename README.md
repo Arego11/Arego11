@@ -5,7 +5,7 @@
 
 - 📫 Reach me - **aregbusiness11@gmail.com**
 
-- ⚡ Fun fact, **I used to be a tattoo artist**
+- ⚡ Before engineering - **(https://www.instagram.com/liner__aro/?hl=en)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
