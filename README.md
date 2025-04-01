@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Areg Hovumyan</h1>
 <h3 align="center">A software engineer located in Los Angeles</h3>
 
-- 🔭 I’m currently working on **A Full-stack Ai interview practice web-app**
+- 🔭 I’m currently working on **A Full-stack Ai-interview practice web-app**
 
-- 📫 How to reach me **aregbusiness11@gmail.com**
+- 📫 Reach me - **aregbusiness11@gmail.com**
 
-- ⚡ Fun fact **I used to be a tattoo artist**
+- ⚡ Fun fact, **I used to be a tattoo artist**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
