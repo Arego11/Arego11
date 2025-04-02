@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://www.leetcode.com/wannaroot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="wannaroot" height="30" width="40" /></a>
 </p>
-<a href="https://www.linkedin.com/in/areg-hovumyan/" target="blank"><img align="center" src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" alt="linkedin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/areg-hovumyan/" target="blank"><img align="center" src="[https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css](https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css)" alt="linkedin" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
