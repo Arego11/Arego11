@@ -1,12 +1,13 @@
 <h1 align="center">Hi, I'm Areg Hovumyan</h1>
 <h3 align="center">Software engineer located in Los Angeles</h3>
 <p>
-  <a href="https://github.com/Arego11/interview" target="_blank"> Interview app </a>
-  - Real world technical interview powered by AI. Tools: Firebase, Tailwind, Vapi
+  
+  <a href="https://github.com/Arego11/interview" target="_blank"> Interviews </a>
+  - Real-world technical interviews powered by Gemini <b>Tools:</b> Firebase, Tailwind, Vapi
 </p>
 <p>
-  <a href="https://github.com/Arego11/Subscription-service target="_blank"> Subscription tracker</a>
-  - Sending scheduled emails, reminding about subscriptions. Tools: Arcjet, Upstash, Mongo 
+  <a href="[https://github.com/Arego11/Subscription-service](https://github.com/Arego11/Subscription-service) target="_blank"> Subscription tracker</a>
+  - Sending scheduled emails, reminding about subscriptions. <b>Tools:</b> Arcjet, Upstash, Mongo 
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
