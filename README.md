@@ -1,12 +1,8 @@
 <h1 align="center">Hi, I'm Areg Hovumyan</h1>
-<h3 align="center">A software engineer located in Los Angeles</h3>
+<h3 align="center">Software engineer located in Los Angeles</h3>
 
-- 🔭 I’m currently working on **A Full-stack Ai-interview practice web-app**
-
-- 📫 Reach me - **aregbusiness11@gmail.com**
-
-- ⚡ Before engineering - **https://www.instagram.com/liner__aro/?hl=en**
-
+<a href = "https://github.com/Arego11/interview" > - Real world technical interview powered by AI. Tools: Firebase, Tailwind, Vapi</a>
+<a href = "https://github.com/Arego11/Subscription-service" > - Sending scheduled emails, reminding about subscriptions. Tools: Arcjet, Upstash, Mongo </a>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
