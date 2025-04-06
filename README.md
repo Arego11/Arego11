@@ -2,12 +2,13 @@
 <h3 align="center">Software engineer located in Los Angeles</h3>
 <p>
   
-  <a href="https://github.com/Arego11/interview" target="_blank"> Interviews </a>
-  - Real-world technical interviews powered by Gemini <b>Tools:</b> Firebase, Tailwind, Vapi
+<p>
+  <a href="https://github.com/Arego11/interview" target="_blank">Interviews</a>
+  – Real-world technical interviews powered by Gemini. <b>Tools:</b> Firebase, Tailwind, Vapi
 </p>
 <p>
-  <a href="[https://github.com/Arego11/Subscription-service](https://github.com/Arego11/Subscription-service) target="_blank"> Subscription tracker</a>
-  - Sending scheduled emails, reminding about subscriptions. <b>Tools:</b> Arcjet, Upstash, Mongo 
+  <a href="https://github.com/Arego11/Subscription-service" target="_blank">Subscription tracker</a>
+  – Sending scheduled emails, reminding about subscriptions. <b>Tools:</b> Arcjet, Upstash, Mongo
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
